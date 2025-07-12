@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nehaadahiya/portfolio](https://github.com/nehaadahiya/portfolio)
 
-- 📝 I regularly write articles on [https://medium.com/@nehaaawriteshere](https://medium.com/@nehaaawriteshere)
+- 📝 I write articles on [https://medium.com/@nehaaawriteshere](https://medium.com/@nehaaawriteshere)
 
 - 💬 Ask me about **SQL, Python, Excel, PowerBI, Tableau**
 
